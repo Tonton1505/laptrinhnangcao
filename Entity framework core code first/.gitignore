@@ -1,0 +1,22 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# Rider
+.idea/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# NuGet
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper*/
